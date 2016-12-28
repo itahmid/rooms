@@ -20,7 +20,7 @@ $ npm install -g meteorite
 
 $ cd rooms
 
-$ mrt install # Installs dependencies
+$ meteor install # Installs dependencies
 
 $ meteor
 ```
